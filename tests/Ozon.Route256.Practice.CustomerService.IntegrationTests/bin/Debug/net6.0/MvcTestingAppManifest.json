@@ -1,0 +1,7 @@
+{
+  "Ozon.Route256.Practice.CustomerService.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Application",
+  "Ozon.Route256.Practice.CustomerService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService",
+  "Ozon.Route256.Practice.CustomerService.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Domain",
+  "Ozon.Route256.Practice.CustomerService.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Infrastructure",
+  "Ozon.Route256.Practice.CustomerService.Observation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Observation"
+}

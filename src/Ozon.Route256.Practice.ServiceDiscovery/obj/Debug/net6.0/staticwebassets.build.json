@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Iyw6ocEckqI26HW+Ou8Y0QRMvUWqDy15kCecpxM4M50=",
+  "Source": "Ozon.Route256.Practice.ServiceDiscovery",
+  "BasePath": "_content/Ozon.Route256.Practice.ServiceDiscovery",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

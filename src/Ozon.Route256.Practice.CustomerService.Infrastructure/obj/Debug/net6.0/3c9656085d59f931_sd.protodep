@@ -1,0 +1,3 @@
+obj\Debug\net6.0\ServiceDiscovery\Proto/Sd.cs \
+obj\Debug\net6.0\ServiceDiscovery\Proto/SdGrpc.cs: C:/Users/renev/.nuget/packages/grpc.tools/2.57.0/build/native/include/google/protobuf/timestamp.proto\
+ ServiceDiscovery/Proto/sd.proto

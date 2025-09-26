@@ -1,0 +1,12 @@
+C:\Users\renev\RiderProjects\route256-cs-microservices\src\Ozon.Route256.Practice.CustomerService.Observation\bin\Debug\net6.0\Ozon.Route256.Practice.CustomerService.Observation.deps.json
+C:\Users\renev\RiderProjects\route256-cs-microservices\src\Ozon.Route256.Practice.CustomerService.Observation\bin\Debug\net6.0\Ozon.Route256.Practice.CustomerService.Observation.dll
+C:\Users\renev\RiderProjects\route256-cs-microservices\src\Ozon.Route256.Practice.CustomerService.Observation\bin\Debug\net6.0\Ozon.Route256.Practice.CustomerService.Observation.pdb
+C:\Users\renev\RiderProjects\route256-cs-microservices\src\Ozon.Route256.Practice.CustomerService.Observation\obj\Debug\net6.0\Ozon.Route256.Practice.CustomerService.Observation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renev\RiderProjects\route256-cs-microservices\src\Ozon.Route256.Practice.CustomerService.Observation\obj\Debug\net6.0\Ozon.Route256.Practice.CustomerService.Observation.AssemblyInfoInputs.cache
+C:\Users\renev\RiderProjects\route256-cs-microservices\src\Ozon.Route256.Practice.CustomerService.Observation\obj\Debug\net6.0\Ozon.Route256.Practice.CustomerService.Observation.AssemblyInfo.cs
+C:\Users\renev\RiderProjects\route256-cs-microservices\src\Ozon.Route256.Practice.CustomerService.Observation\obj\Debug\net6.0\Ozon.Route256.Practice.CustomerService.Observation.csproj.CoreCompileInputs.cache
+C:\Users\renev\RiderProjects\route256-cs-microservices\src\Ozon.Route256.Practice.CustomerService.Observation\obj\Debug\net6.0\Ozon.Route256.Practice.CustomerService.Observation.sourcelink.json
+C:\Users\renev\RiderProjects\route256-cs-microservices\src\Ozon.Route256.Practice.CustomerService.Observation\obj\Debug\net6.0\Ozon.Route256.Practice.CustomerService.Observation.dll
+C:\Users\renev\RiderProjects\route256-cs-microservices\src\Ozon.Route256.Practice.CustomerService.Observation\obj\Debug\net6.0\refint\Ozon.Route256.Practice.CustomerService.Observation.dll
+C:\Users\renev\RiderProjects\route256-cs-microservices\src\Ozon.Route256.Practice.CustomerService.Observation\obj\Debug\net6.0\Ozon.Route256.Practice.CustomerService.Observation.pdb
+C:\Users\renev\RiderProjects\route256-cs-microservices\src\Ozon.Route256.Practice.CustomerService.Observation\obj\Debug\net6.0\ref\Ozon.Route256.Practice.CustomerService.Observation.dll

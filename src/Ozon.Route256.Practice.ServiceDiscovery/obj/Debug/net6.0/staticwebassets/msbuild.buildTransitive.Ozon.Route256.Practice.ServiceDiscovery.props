@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Ozon.Route256.Practice.ServiceDiscovery.props" />
+</Project>

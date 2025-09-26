@@ -1,0 +1,378 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\tests\\Ozon.Route256.Practice.CustomerService.Tests\\Ozon.Route256.Practice.CustomerService.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Application\\Ozon.Route256.Practice.CustomerService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Application\\Ozon.Route256.Practice.CustomerService.Application.csproj",
+        "projectName": "Ozon.Route256.Practice.CustomerService.Application",
+        "projectPath": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Application\\Ozon.Route256.Practice.CustomerService.Application.csproj",
+        "packagesPath": "C:\\Users\\renev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\renev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Domain\\Ozon.Route256.Practice.CustomerService.Domain.csproj": {
+                "projectPath": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Domain\\Ozon.Route256.Practice.CustomerService.Domain.csproj"
+              },
+              "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Observation\\Ozon.Route256.Practice.CustomerService.Observation.csproj": {
+                "projectPath": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Observation\\Ozon.Route256.Practice.CustomerService.Observation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Domain\\Ozon.Route256.Practice.CustomerService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Domain\\Ozon.Route256.Practice.CustomerService.Domain.csproj",
+        "projectName": "Ozon.Route256.Practice.CustomerService.Domain",
+        "projectPath": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Domain\\Ozon.Route256.Practice.CustomerService.Domain.csproj",
+        "packagesPath": "C:\\Users\\renev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\renev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Observation\\Ozon.Route256.Practice.CustomerService.Observation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Observation\\Ozon.Route256.Practice.CustomerService.Observation.csproj",
+        "projectName": "Ozon.Route256.Practice.CustomerService.Observation",
+        "projectPath": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Observation\\Ozon.Route256.Practice.CustomerService.Observation.csproj",
+        "packagesPath": "C:\\Users\\renev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Observation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\renev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\tests\\Ozon.Route256.Practice.CustomerService.Tests\\Ozon.Route256.Practice.CustomerService.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\tests\\Ozon.Route256.Practice.CustomerService.Tests\\Ozon.Route256.Practice.CustomerService.Tests.csproj",
+        "projectName": "Ozon.Route256.Practice.CustomerService.Tests",
+        "projectPath": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\tests\\Ozon.Route256.Practice.CustomerService.Tests\\Ozon.Route256.Practice.CustomerService.Tests.csproj",
+        "packagesPath": "C:\\Users\\renev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\tests\\Ozon.Route256.Practice.CustomerService.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\renev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Application\\Ozon.Route256.Practice.CustomerService.Application.csproj": {
+                "projectPath": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Application\\Ozon.Route256.Practice.CustomerService.Application.csproj"
+              },
+              "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Domain\\Ozon.Route256.Practice.CustomerService.Domain.csproj": {
+                "projectPath": "C:\\Users\\renev\\RiderProjects\\route256-cs-microservices\\src\\Ozon.Route256.Practice.CustomerService.Domain\\Ozon.Route256.Practice.CustomerService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.69, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
